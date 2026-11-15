@@ -19,7 +19,7 @@ selama satu semester.
 
 | Pertemuan | Topik | Source Code dan Screenshot |
 |---|---|---|
-| 01 | Arsitektur Android(./pertemuan-01/) | modul-01(./modul-01/) |
+| 01 | [Arsitektur Android](./pertemuan-01/) | [modul-01](./modul-01/) |
 | 02 | [Topik Praktikum 02](./pertemuan-02/) | [Folder](./pertemuan-02/) |
 | 03 | [Topik Praktikum 03](./pertemuan-03/) | [Folder](./pertemuan-03/) |
 
