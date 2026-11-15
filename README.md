@@ -19,9 +19,9 @@ selama satu semester.
 
 | Pertemuan | Topik | Source Code dan Screenshot |
 |---|---|---|
-| 01 | [Arsitektur Android](./pertemuan-01/) | [modul-01](./modul-01/) |
-| 02 | [Topik Praktikum 02](./pertemuan-02/) | [Folder](./pertemuan-02/) |
-| 03 | [Topik Praktikum 03](./pertemuan-03/) | [Folder](./pertemuan-03/) |
+| 01 | [Arsitektur Android](./modul-01/) | [modul-01](./modul-01/) |
+| 02 | [Layout Android](./pertemuan-02/) | [modul-02](./pertemuan-02/) |
+| 03 | [Gaya Dan Tema Android](./pertemuan-03/) | [modul-3](./pertemuan-03/) |
 
 ## Cara Menjalankan Aplikasi
 
